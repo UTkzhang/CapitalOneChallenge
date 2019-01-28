@@ -1,3 +1,8 @@
+# author: Kevin Zhang
+# date: 2019-01-27
+# summary: Comment checker for software engineer challenge from CapitalOne
+
+
 import os
 import re
 
